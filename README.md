@@ -1,6 +1,6 @@
 # Fincancial Inclusion in East Africa
 
-#### By Nelson Muteti
+#### By Cheruiyot vincent
               
 
 ## PROBLEM STATEMENT
@@ -62,7 +62,7 @@
 
 * Contact me for further clarifications at:
         
-          nelsonmuteti012@gmail.com
+          cheruiyotvincent1998@gmail.com
 
 * Suggestions on improvement are welcome.
 
@@ -72,7 +72,7 @@
 
 MIT License
 
-Copyright (c) 2021 NelsonM
+Copyright (c) 2021 Cheruiyotvincent
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
